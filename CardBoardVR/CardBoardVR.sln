@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9B2BF114-44CB-CC87-93C7-A07086FD6591}") = "CardBoardVR", "Assembly-CSharp-firstpass.csproj", "{B8F816B3-6318-6B85-E7FE-8E53D2F14FF8}"
+EndProject
+Project("{9B2BF114-44CB-CC87-93C7-A07086FD6591}") = "CardBoardVR", "Assembly-CSharp.csproj", "{807B3D90-226D-79D9-7330-0E9812155BC5}"
+EndProject
+Project("{9B2BF114-44CB-CC87-93C7-A07086FD6591}") = "CardBoardVR", "Assembly-CSharp-Editor.csproj", "{C77F45E8-963A-0168-128D-58AF8A5EA950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F816B3-6318-6B85-E7FE-8E53D2F14FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F816B3-6318-6B85-E7FE-8E53D2F14FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F816B3-6318-6B85-E7FE-8E53D2F14FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F816B3-6318-6B85-E7FE-8E53D2F14FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807B3D90-226D-79D9-7330-0E9812155BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807B3D90-226D-79D9-7330-0E9812155BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807B3D90-226D-79D9-7330-0E9812155BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807B3D90-226D-79D9-7330-0E9812155BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77F45E8-963A-0168-128D-58AF8A5EA950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77F45E8-963A-0168-128D-58AF8A5EA950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77F45E8-963A-0168-128D-58AF8A5EA950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77F45E8-963A-0168-128D-58AF8A5EA950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
